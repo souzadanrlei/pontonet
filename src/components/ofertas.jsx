@@ -22,7 +22,7 @@ export default function Ofertas() {
                             </div>
                             <div className={style.velocidade}>
                                 <h1>
-                                    100 MEGA
+                                    200 MEGA
                                 </h1>
                             </div>
                             </div>
@@ -51,8 +51,8 @@ export default function Ofertas() {
 
             <div className={style.oferta}>
                 <Cards 
-                    assine="Assine 200 leve IPTV" 
-                    velocidade="200 MEGA" 
+                    assine="Assine 400 leve IPTV" 
+                    velocidade="400 MEGA" 
                     valor="Por apenas" 
                     valoremreal="R$ 80,00" 
                     mes="/mês" 
@@ -62,8 +62,8 @@ export default function Ofertas() {
                 />
 
                 <Cards 
-                    assine="Assine 300 leve IPTV" 
-                    velocidade="300 MEGA" 
+                    assine="Assine 500 leve IPTV" 
+                    velocidade="500 MEGA" 
                     valor="Por apenas" 
                     valoremreal="R$ 100,00" 
                     mes="/mês" 
@@ -73,8 +73,8 @@ export default function Ofertas() {
                 />
 
                 <Cards 
-                    assine="Assine 400 leve IPTV" 
-                    velocidade="400 MEGA" 
+                    assine="Assine 600 leve IPTV" 
+                    velocidade="600 MEGA" 
                     valor="Por apenas" 
                     valoremreal="R$ 120,00" 
                     mes="/mês" 
@@ -84,8 +84,8 @@ export default function Ofertas() {
                 />
 
                 <Cards 
-                    assine="Assine 400 leve IPTV" 
-                    velocidade="500 MEGA" 
+                    assine="Assine 1GB leve IPTV" 
+                    velocidade="1GB MEGA" 
                     valor="Por apenas" 
                     valoremreal="R$ 150,00" 
                     mes="/mês" 
